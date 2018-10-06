@@ -19,7 +19,6 @@ INDEX VERSION 1.126+E:\AcmeShout-DP\.metadata\.plugins\org.eclipse.jdt.core
 387168593.index
 1174979907.index
 1257753676.index
-3585741212.index
 4168171976.index
 2455611774.index
 1189943714.index
@@ -44,7 +43,6 @@ INDEX VERSION 1.126+E:\AcmeShout-DP\.metadata\.plugins\org.eclipse.jdt.core
 425169354.index
 720578469.index
 3203908722.index
-23120103.index
 533424204.index
 3351311655.index
 3784247873.index
